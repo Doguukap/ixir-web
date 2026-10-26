@@ -1,0 +1,3 @@
+export const academyIntroduction = "13 yılı aşkın sektör deneyimi ile Gaziantep’in ilk ve tek usta öğretici belgeli Güzellik ve Kişisel Bakım Uzmanı İbrahim Akçay’dan Güzellik ve Kişisel Bakım alanında özel eğitim alın. Sektörün ve işin en ince ayrıntılarına kadar bilgi sahibi olun, sektörün donanımlı uzmanları arasında yer alın. Alacağınız bu eğitim ile İxir Güzellik şubelerinde veya sektörde hizmet veren başka firmalarda iş bulabilir veya kendi Güzellik Merkezinizi kurabilirsiniz.";
+
+export const academySourceOptions = ["Google / İnternet araması", "Instagram", "Facebook", "YouTube", "Tavsiye", "İxir şubesi", "Diğer"];
